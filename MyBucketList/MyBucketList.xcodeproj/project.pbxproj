@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B409261B2CC7F44100DF485B /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B409261A2CC7F44100DF485B /* EditView.swift */; };
+		B42E1F302CC94E48008EA8B0 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42E1F2F2CC94E48008EA8B0 /* Result.swift */; };
 		B44EA6382CC54AF3009391F6 /* MyBucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44EA6372CC54AF3009391F6 /* MyBucketListApp.swift */; };
 		B44EA63A2CC54AF3009391F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44EA6392CC54AF3009391F6 /* ContentView.swift */; };
 		B44EA63C2CC54AF5009391F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44EA63B2CC54AF5009391F6 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		B409261A2CC7F44100DF485B /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		B42E1F2F2CC94E48008EA8B0 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		B44EA6342CC54AF3009391F6 /* MyBucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B44EA6372CC54AF3009391F6 /* MyBucketListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBucketListApp.swift; sourceTree = "<group>"; };
 		B44EA6392CC54AF3009391F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				B44EA6372CC54AF3009391F6 /* MyBucketListApp.swift */,
 				B44EA6392CC54AF3009391F6 /* ContentView.swift */,
 				B409261A2CC7F44100DF485B /* EditView.swift */,
+				B42E1F2F2CC94E48008EA8B0 /* Result.swift */,
 				B44EA6452CC557E2009391F6 /* Location.swift */,
 				B44EA63B2CC54AF5009391F6 /* Assets.xcassets */,
 				B44EA63D2CC54AF5009391F6 /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B44EA63A2CC54AF3009391F6 /* ContentView.swift in Sources */,
+				B42E1F302CC94E48008EA8B0 /* Result.swift in Sources */,
 				B44EA6462CC557E2009391F6 /* Location.swift in Sources */,
 				B409261B2CC7F44100DF485B /* EditView.swift in Sources */,
 				B44EA6382CC54AF3009391F6 /* MyBucketListApp.swift in Sources */,
