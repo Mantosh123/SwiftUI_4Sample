@@ -14,6 +14,7 @@
 		B44EA63C2CC54AF5009391F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44EA63B2CC54AF5009391F6 /* Assets.xcassets */; };
 		B44EA63F2CC54AF5009391F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44EA63E2CC54AF5009391F6 /* Preview Assets.xcassets */; };
 		B44EA6462CC557E2009391F6 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44EA6452CC557E2009391F6 /* Location.swift */; };
+		B47937BE2CCBDD4400D1B25C /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B47937BD2CCBDD4400D1B25C /* ContentView-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		B44EA63B2CC54AF5009391F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B44EA63E2CC54AF5009391F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B44EA6452CC557E2009391F6 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		B47937BD2CCBDD4400D1B25C /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B44EA6372CC54AF3009391F6 /* MyBucketListApp.swift */,
 				B44EA6392CC54AF3009391F6 /* ContentView.swift */,
 				B409261A2CC7F44100DF485B /* EditView.swift */,
+				B47937BD2CCBDD4400D1B25C /* ContentView-ViewModel.swift */,
 				B42E1F2F2CC94E48008EA8B0 /* Result.swift */,
 				B44EA6452CC557E2009391F6 /* Location.swift */,
 				B44EA63B2CC54AF5009391F6 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B44EA63A2CC54AF3009391F6 /* ContentView.swift in Sources */,
+				B47937BE2CCBDD4400D1B25C /* ContentView-ViewModel.swift in Sources */,
 				B42E1F302CC94E48008EA8B0 /* Result.swift in Sources */,
 				B44EA6462CC557E2009391F6 /* Location.swift in Sources */,
 				B409261B2CC7F44100DF485B /* EditView.swift in Sources */,
