@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 6SJ2TEW8J2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "To Identify you";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "To Get location";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "to get your location ";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -325,6 +326,7 @@
 				DEVELOPMENT_TEAM = 6SJ2TEW8J2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "To Identify you";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "To Get location";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "to get your location ";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
